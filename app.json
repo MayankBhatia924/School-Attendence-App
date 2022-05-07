@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "School Attendance App",
+    "slug": "snack-9fa85618-bfee-4c67-bd56-088b8fb4ad59",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.mayankbhatia.snack9fa85618bfee4c67bd56088b8fb4ad59"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
